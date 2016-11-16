@@ -1,8 +1,8 @@
 # file main.c
 void main (void)
   {
-  print("hello world!");
+  print("Bonjour monde!");
   
-  for(, , );
+  for( , , );
   }
   
